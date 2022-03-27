@@ -20,9 +20,9 @@
 ## 📷 Imagens do projeto
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Imagem - Calculadora de Combustível" src="assets/screen1.jpg" width="300px">
-  <img alt="NextLevelWeek" title="Imagem - Calculadora de Combustível" src="assets/screen2.jpg" width="300px">
-  <img alt="NextLevelWeek" title="Imagem - Calculadora de Combustível" src="assets/screen3.jpg" width="300px">
+  <img alt="NextLevelWeek" title="Imagem - Calculadora de Combustível, Gasolina mais barata" src="assets/screen1.jpg" width="300px">
+  <img alt="NextLevelWeek" title="Imagem - Calculadora de Combustível, Etanol mais barato" src="assets/screen2.jpg" width="300px">
+  <img alt="NextLevelWeek" title="Imagem - Calculadora de Combustível, Preços iguais" src="assets/screen3.jpg" width="300px">
 </p>
 
 ---
