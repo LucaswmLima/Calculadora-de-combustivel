@@ -29,7 +29,7 @@
 
 ## 🚀 Como executar o projeto
 
-Executar o aplicativo Clock Unlocker (Requer Google Chrome / Chromedriver atualizados na mesma versão).
+Executar o aplicativo Calculadora de Combustível.
 
 ---
 
