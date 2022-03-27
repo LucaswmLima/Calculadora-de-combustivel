@@ -1,2 +1,2 @@
-# Calculadora-de-combustivel
- Programa desenvolvido em Java para cálculo da relação de preço entre a gasolina e o etanol.
+# Clock-unlocker
+ Programa desenvolvido em Python com a utlização de Selenium para automatizar a tarefa repetitiva e demorada de desbloquear relogios de ponto.
